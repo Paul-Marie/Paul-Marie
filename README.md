@@ -3,7 +3,7 @@
 ### I'm an embedded developer :)
 
 - 🚧 Current Project: [KralaTouch][kralatouch], [Ougahdget][ougahdget]
-- 📍 Previous work: [Bwuno][bwuno], [DT-Price][https://dt-price.com] and [Epitech Survival Kit][epitech-survival-kit]
+- 📍 Previous work: [Bwuno][bwuno], [DT-Price][dt-price] and [Epitech Survival Kit][epitech-survival-kit]
 
 ### Connect with me
 
@@ -23,9 +23,9 @@
 ---
 
 [![Epitech's Survival Kit](https://github-readme-stats.vercel.app/api/pin/?username=Paul-Marie&repo=Epitech-Survival-Kit&title_color=C53030&bg_color=F7FAFC&hide_border=true&show_owner=true)][epitech-survival-kit]
+[![Bwuno](https://github-readme-stats.vercel.app/api/pin/?username=Paul-Marie&repo=Bwuno&title_color=C53030&bg_color=F7FAFC&hide_border=true)][bwuno]
 <!---([![KralAPI](https://github-readme-stats.vercel.app/api/pin/?username=KralaTouch&repo=KralAPI&title_color=C53030&bg_color=F7FAFC&hide_border=true&show_owner=true)][kralapi]--->
 <!---([![KralAPI](https://github-readme-stats.vercel.app/api/pin/?username=KralaTouch&repo=OugAhPI&title_color=C53030&bg_color=F7FAFC&hide_border=true&show_owner=true)][ougahpi]--->
-[![Bwuno](https://github-readme-stats.vercel.app/api/pin/?username=Paul-Marie&repo=Bwuno&title_color=C53030&bg_color=F7FAFC&hide_border=true)][bwuno]
 [![Makefile-Exemple](https://github-readme-stats.vercel.app/api/pin/?username=Paul-Marie&repo=Makefile-Example&title_color=C53030&bg_color=F7FAFC&hide_border=true)][makefile-example]
 [![MiniLibC](https://github-readme-stats.vercel.app/api/pin/?username=Paul-Marie&repo=minilibc&title_color=C53030&bg_color=F7FAFC&hide_border=true)][minilibc]
 
@@ -40,5 +40,6 @@
 [instagram]: https://www.instagram.com/pm.bettinelli
 [youtube]: https://www.youtube.com/channel/UCX8MX68vCptkyWqu0gfzswA
 [twitch]: https://www.twitch.tv/Lethargi
-[switch]: 
+<!---[switch]: --->
 [discord]: https://discord.com/users/253926001640210432
+[dt-price]: https://dt-price.com
