@@ -1,4 +1,5 @@
-<h1 align="center"> <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Welcome.gif" alt="hello-gif"> <br >I'm <a href="https://www.linkedin.com/in/paul-marie-bettinelli/">Paul-Marie</a> - aka Lethargi. Welcome to my GitHub! 🤗</h1>
+
+<h1 align="center"> <img src="https://github.com/Paul-Marie/Paul-Marie/blob/master/Assets/Welcome.gif" alt="Welcome"> <br>I'm <a href="https://www.linkedin.com/in/paul-marie-bettinelli/">Paul-Marie</a> - aka Lethargi. Welcome to my GitHub! 🤗</h1>
 
 <h2> I'm an embedded developer :) </h2>
 
@@ -6,28 +7,6 @@
 - 📍 Previous work: [Bwuno][bwuno], [DT-Price][dt-price] and [Epitech Survival Kit][epitech-survival-kit]
 
 <p align="center"> <img src="https://github.com/Paul-Marie/Paul-Marie/blob/master/Assets/Matrix.gif" alt="Matrix" /> </p>
-
-<h2> Connect with me <img src="https://github.com/Paul-Marie/Paul-Marie/blob/master/Assets/HandShake.gif" height="32px"> </h2>
-
-<!---
-[<img align="left" alt="twitter_logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/twitter.svg">][twitter]
-[<img align="left" alt="instagram_logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/instagram.svg">][instagram]
-[<img align="left" alt="youtube_logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/youtube.svg">][youtube]
-[<img align="left" alt="twitch_logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/twitch.svg">][twitch]
-[<img align="left" alt="discord_logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/discord.svg">][discord]
---->
-
-| [<img src="https://github.com/Paul-Marie/Paul-Marie/blob/master/Assets/Linkedin.svg" alt="Linkedin" width="32">][linkedin]
-| [<img src="https://github.com/Paul-Marie/Paul-Marie/blob/master/Assets/Instagram.svg" alt="Instagram" width="32">][instagram]
-| [<img src="https://github.com/Paul-Marie/Paul-Marie/blob/master/Assets/Youtube.svg" alt="Youtube" width="32">][youtube]
-| [<img src="https://github.com/Paul-Marie/Paul-Marie/blob/master/Assets/Twitch.svg" alt="Twitch" width="32">][twitch]
-| [<img src="https://github.com/Paul-Marie/Paul-Marie/blob/master/Assets/Twitter.svg" alt="Twitter" width="32">][twitter]
-| [<img src="https://github.com/Paul-Marie/Paul-Marie/blob/master/Assets/Discord.svg" alt="Discord" height="32">][discord]
-| [<img src="https://github.com/Paul-Marie/Paul-Marie/blob/master/Assets/Spotify.svg" alt="Spotify" width="32">][spotify]
-|:---:|:---:|:---:|:---:|:---:|:---:|
-<br>
-
----
 
 ![Lethargi's stats](https://github-readme-stats.vercel.app/api?username=Paul-Marie&show_icons=true&hide_border=true&title_color=C53030&icon_color=C53030)
 ![Lethargi's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Marie&hide=html,java&hide_border=true&title_color=C53030)
@@ -40,6 +19,23 @@
 <!---([![KralAPI](https://github-readme-stats.vercel.app/api/pin/?username=KralaTouch&repo=OugAhPI&title_color=C53030&bg_color=F7FAFC&hide_border=true&show_owner=true)][ougahpi]--->
 [![Makefile-Exemple](https://github-readme-stats.vercel.app/api/pin/?username=Paul-Marie&repo=Makefile-Example&title_color=C53030&bg_color=F7FAFC&hide_border=true)][makefile-example]
 [![MiniLibC](https://github-readme-stats.vercel.app/api/pin/?username=Paul-Marie&repo=minilibc&title_color=C53030&bg_color=F7FAFC&hide_border=true)][minilibc]
+
+---
+
+<h2> Connect with me <img src="https://github.com/Paul-Marie/Paul-Marie/blob/master/Assets/HandShake.gif" height="32px"> </h2>
+
+<!---
+[<img align="left" alt="twitter_logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/twitter.svg">][twitter]
+[<img align="left" alt="instagram_logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/instagram.svg">][instagram]
+[<img align="left" alt="youtube_logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/youtube.svg">][youtube]
+[<img align="left" alt="twitch_logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/twitch.svg">][twitch]
+[<img align="left" alt="discord_logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/discord.svg">][discord]
+--->
+
+| [<img src="https://github.com/Paul-Marie/Paul-Marie/blob/master/Assets/Linkedin.svg" alt="Linkedin" width="32">][linkedin] | [<img src="https://github.com/Paul-Marie/Paul-Marie/blob/master/Assets/Instagram.svg" alt="Instagram" width="32">][instagram] | [<img src="https://github.com/Paul-Marie/Paul-Marie/blob/master/Assets/Youtube.svg" alt="Youtube" width="32">][youtube] | [<img src="https://github.com/Paul-Marie/Paul-Marie/blob/master/Assets/Twitch.svg" alt="Twitch" width="32">][twitch] | [<img src="https://github.com/Paul-Marie/Paul-Marie/blob/master/Assets/Twitter.svg" alt="Twitter" width="32">][twitter] | [<img src="https://github.com/Paul-Marie/Paul-Marie/blob/master/Assets/Discord.svg" alt="Discord" height="32">][discord] | [<img src="https://github.com/Paul-Marie/Paul-Marie/blob/master/Assets/Spotify.svg" alt="Spotify" width="32">][spotify]
+|:---:|:---:|:---:|:---:|:---:|:---:|
+<br>
+<br>
 
 [epitech-survival-kit]: https://github.com/Paul-Marie/Epitech-Survival-Kit
 [kralapi]: https://github.com/Kralatouch/KralAPI
