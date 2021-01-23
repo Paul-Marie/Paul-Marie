@@ -1,18 +1,30 @@
-## Hi there, I'm Paul-Marie - aka Lethargi
+<h1 align="center"> <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Welcome.gif" alt="hello-gif"> <br >I'm <a href="https://www.linkedin.com/in/paul-marie-bettinelli/">Paul-Marie</a> - aka Lethargi. Welcome to my GitHub! 🤗</h1>
 
-### I'm an embedded developer :)
+<h2> I'm an embedded developer :) </h2>
 
 - 🚧 Current Project: [KralaTouch][kralatouch], [Ougahdget][ougahdget]
 - 📍 Previous work: [Bwuno][bwuno], [DT-Price][dt-price] and [Epitech Survival Kit][epitech-survival-kit]
 
-### Connect with me
+<p align="center"> <img src="https://github.com/Paul-Marie/Paul-Marie/blob/master/Assets/Matrix.gif" alt="Matrix" /> </p>
 
+<h2> Connect with me <img src="https://github.com/Paul-Marie/Paul-Marie/blob/master/Assets/HandShake.gif" height="32px"> </h2>
+
+<!---
 [<img align="left" alt="twitter_logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/twitter.svg">][twitter]
 [<img align="left" alt="instagram_logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/instagram.svg">][instagram]
 [<img align="left" alt="youtube_logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/youtube.svg">][youtube]
 [<img align="left" alt="twitch_logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/twitch.svg">][twitch]
-<!---[<img align="left" alt="spotify_logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/spotify.svg">][spotify]--->
 [<img align="left" alt="discord_logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/discord.svg">][discord]
+--->
+
+| [<img src="https://github.com/Paul-Marie/Paul-Marie/blob/master/Assets/Linkedin.svg" alt="Linkedin" width="32">][linkedin]
+| [<img src="https://github.com/Paul-Marie/Paul-Marie/blob/master/Assets/Instagram.svg" alt="Instagram" width="32">][instagram]
+| [<img src="https://github.com/Paul-Marie/Paul-Marie/blob/master/Assets/Youtube.svg" alt="Youtube" width="32">][youtube]
+| [<img src="https://github.com/Paul-Marie/Paul-Marie/blob/master/Assets/Twitch.svg" alt="Twitch" width="32">][twitch]
+| [<img src="https://github.com/Paul-Marie/Paul-Marie/blob/master/Assets/Twitter.svg" alt="Twitter" width="32">][twitter]
+| [<img src="https://github.com/Paul-Marie/Paul-Marie/blob/master/Assets/Discord.svg" alt="Discord" height="32">][discord]
+| [<img src="https://github.com/Paul-Marie/Paul-Marie/blob/master/Assets/Spotify.svg" alt="Spotify" width="32">][spotify]
+|:---:|:---:|:---:|:---:|:---:|:---:|
 <br>
 
 ---
@@ -37,10 +49,12 @@
 [minilibc]: https://github.com/Paul-Marie/MiniLibC
 [ougahdget]: https://github.com/Ougahdget
 [kralatouch]: https://github.com/Kralatouch/KralaTouch
+
+[linkedin]: https://www.linkedin.com/in/paul-marie-bettinelli
 [twitter]: https://twitter.com/Lethargi_
 [instagram]: https://www.instagram.com/pm.bettinelli
 [youtube]: https://www.youtube.com/channel/UCX8MX68vCptkyWqu0gfzswA
 [twitch]: https://www.twitch.tv/Lethargi
-<!---[switch]: --->
+[spotify]: https://open.spotify.com/user/ahzrmlfhsnisovtxs95vom4mg
 [discord]: https://discord.com/users/253926001640210432
 [dt-price]: https://dt-price.com
