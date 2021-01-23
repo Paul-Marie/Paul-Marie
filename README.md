@@ -6,19 +6,19 @@
 - 🚧 Current Project: [KralaTouch][kralatouch], [Ougahdget][ougahdget]
 - 📍 Previous work: [Bwuno][bwuno], [DT-Price][dt-price] and [Epitech Survival Kit][epitech-survival-kit]
 
-<p align="center"> <img src="https://github.com/Paul-Marie/Paul-Marie/blob/master/Assets/Matrix.gif" alt="Matrix" /> </p>
+<p align="center"> <img src="https://github.com/Paul-Marie/Paul-Marie/blob/master/Assets/Matrix.gif" alt="Matrix" height="240px"/> </p>
 
 ![Lethargi's stats](https://github-readme-stats.vercel.app/api?username=Paul-Marie&show_icons=true&hide_border=true&title_color=753BFA&icon_color=753BFA)
 ![Lethargi's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Marie&hide=html,java&hide_border=true&title_color=753BFA&layout=compact)
 
 ---
 
-[![Epitech's Survival Kit](https://github-readme-stats.vercel.app/api/pin/?username=Paul-Marie&repo=Epitech-Survival-Kit&title_color=C53030&bg_color=F7FAFC&hide_border=true&show_owner=true)][epitech-survival-kit]
-[![Bwuno](https://github-readme-stats.vercel.app/api/pin/?username=Paul-Marie&repo=Bwuno&title_color=C53030&bg_color=F7FAFC&hide_border=true)][bwuno]
-<!---([![KralAPI](https://github-readme-stats.vercel.app/api/pin/?username=KralaTouch&repo=KralAPI&title_color=C53030&bg_color=F7FAFC&hide_border=true&show_owner=true)][kralapi]--->
-<!---([![KralAPI](https://github-readme-stats.vercel.app/api/pin/?username=KralaTouch&repo=OugAhPI&title_color=C53030&bg_color=F7FAFC&hide_border=true&show_owner=true)][ougahpi]--->
-[![Makefile-Exemple](https://github-readme-stats.vercel.app/api/pin/?username=Paul-Marie&repo=Makefile-Example&title_color=C53030&bg_color=F7FAFC&hide_border=true)][makefile-example]
-[![MiniLibC](https://github-readme-stats.vercel.app/api/pin/?username=Paul-Marie&repo=minilibc&title_color=C53030&bg_color=F7FAFC&hide_border=true)][minilibc]
+[![Epitech's Survival Kit](https://github-readme-stats.vercel.app/api/pin/?username=Paul-Marie&repo=Epitech-Survival-Kit&title_color=753BFA&bg_color=F7FAFC&hide_border=true&show_owner=true)][epitech-survival-kit]
+[![Bwuno](https://github-readme-stats.vercel.app/api/pin/?username=Paul-Marie&repo=Bwuno&title_color=753BFA&bg_color=F7FAFC&hide_border=true)][bwuno]
+<!---([![KralAPI](https://github-readme-stats.vercel.app/api/pin/?username=KralaTouch&repo=KralAPI&title_color=753BFA&bg_color=F7FAFC&hide_border=true&show_owner=true)][kralapi]--->
+<!---([![KralAPI](https://github-readme-stats.vercel.app/api/pin/?username=KralaTouch&repo=OugAhPI&title_color=753BFA&bg_color=F7FAFC&hide_border=true&show_owner=true)][ougahpi]--->
+[![Makefile-Exemple](https://github-readme-stats.vercel.app/api/pin/?username=Paul-Marie&repo=Makefile-Example&title_color=753BFA&bg_color=F7FAFC&hide_border=true)][makefile-example]
+[![MiniLibC](https://github-readme-stats.vercel.app/api/pin/?username=Paul-Marie&repo=minilibc&title_color=753BFA&bg_color=F7FAFC&hide_border=true)][minilibc]
 
 ---
 
