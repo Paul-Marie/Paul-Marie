@@ -36,6 +36,7 @@
 [makefile-example]: https://github.com/Paul-Marie/Makefile-Example
 [minilibc]: https://github.com/Paul-Marie/MiniLibC
 [ougahdget]: https://github.com/Ougahdget
+[kralatouch]: https://github.com/Kralatouch/KralaTouch
 [twitter]: https://twitter.com/Lethargi_
 [instagram]: https://www.instagram.com/pm.bettinelli
 [youtube]: https://www.youtube.com/channel/UCX8MX68vCptkyWqu0gfzswA
