@@ -8,8 +8,8 @@
 
 <p align="center"> <img src="https://github.com/Paul-Marie/Paul-Marie/blob/master/Assets/Matrix.gif" alt="Matrix" /> </p>
 
-![Lethargi's stats](https://github-readme-stats.vercel.app/api?username=Paul-Marie&show_icons=true&hide_border=true&title_color=C53030&icon_color=C53030)
-![Lethargi's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Marie&hide=html,java&hide_border=true&title_color=C53030)
+![Lethargi's stats](https://github-readme-stats.vercel.app/api?username=Paul-Marie&show_icons=true&hide_border=true&title_color=753BFA&icon_color=753BFA)
+![Lethargi's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Marie&hide=html,java&hide_border=true&title_color=753BFA&layout=compact)
 
 ---
 
