@@ -11,7 +11,7 @@
 [<img align="left" alt="instagram_logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/instagram.svg">][instagram]
 [<img align="left" alt="youtube_logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/youtube.svg">][youtube]
 [<img align="left" alt="twitch_logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/twitch.svg">][twitch]
-[<img align="left" alt="spotify_logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/spotify.svg">][spotify]
+<!---[<img align="left" alt="spotify_logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/spotify.svg">][spotify]--->
 [<img align="left" alt="discord_logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/discord.svg">][discord]
 <br>
 
@@ -23,8 +23,8 @@
 ---
 
 [![Epitech's Survival Kit](https://github-readme-stats.vercel.app/api/pin/?username=Paul-Marie&repo=Epitech-Survival-Kit&title_color=C53030&bg_color=F7FAFC&hide_border=true&show_owner=true)][epitech-survival-kit]
-[//]: <> ([![KralAPI](https://github-readme-stats.vercel.app/api/pin/?username=KralaTouch&repo=KralAPI&title_color=C53030&bg_color=F7FAFC&hide_border=true&show_owner=true)][kralapi])
-[//]: <> ([![KralAPI](https://github-readme-stats.vercel.app/api/pin/?username=KralaTouch&repo=OugAhPI&title_color=C53030&bg_color=F7FAFC&hide_border=true&show_owner=true)][ougahpi])
+<!---([![KralAPI](https://github-readme-stats.vercel.app/api/pin/?username=KralaTouch&repo=KralAPI&title_color=C53030&bg_color=F7FAFC&hide_border=true&show_owner=true)][kralapi]--->
+<!---([![KralAPI](https://github-readme-stats.vercel.app/api/pin/?username=KralaTouch&repo=OugAhPI&title_color=C53030&bg_color=F7FAFC&hide_border=true&show_owner=true)][ougahpi]--->
 [![Bwuno](https://github-readme-stats.vercel.app/api/pin/?username=Paul-Marie&repo=Bwuno&title_color=C53030&bg_color=F7FAFC&hide_border=true)][bwuno]
 [![Makefile-Exemple](https://github-readme-stats.vercel.app/api/pin/?username=Paul-Marie&repo=Makefile-Example&title_color=C53030&bg_color=F7FAFC&hide_border=true)][makefile-example]
 [![MiniLibC](https://github-readme-stats.vercel.app/api/pin/?username=Paul-Marie&repo=minilibc&title_color=C53030&bg_color=F7FAFC&hide_border=true)][minilibc]
@@ -40,5 +40,5 @@
 [instagram]: https://www.instagram.com/pm.bettinelli
 [youtube]: https://www.youtube.com/channel/UCX8MX68vCptkyWqu0gfzswA
 [twitch]: https://www.twitch.tv/Lethargi
-[//]: <> ([switch]: )
+[switch]: 
 [discord]: https://discord.com/users/253926001640210432
