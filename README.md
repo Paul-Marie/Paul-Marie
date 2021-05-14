@@ -33,7 +33,7 @@
 --->
 
 | [<img src="https://github.com/Paul-Marie/Paul-Marie/blob/master/Assets/Youtube.svg" alt="Youtube" width="32">][youtube] | [<img src="https://github.com/Paul-Marie/Paul-Marie/blob/master/Assets/Twitch.svg" alt="Twitch" width="32">][twitch] | [<img src="https://github.com/Paul-Marie/Paul-Marie/blob/master/Assets/Twitter.svg" alt="Twitter" width="32">][twitter] | [<img src="https://github.com/Paul-Marie/Paul-Marie/blob/master/Assets/Discord.svg" alt="Discord" height="32">][discord] |
-|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|
 <br>
 <br>
 
