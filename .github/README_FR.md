@@ -19,13 +19,13 @@
   </a>
 </p>
 
-> As a former student at [Epitech](https://epitech.eu), a prestigious French engineering school, I have gained a strong foundation in computer science and software development. Throughout my studies, I have become proficient in a variety of programming languages and technologies.
+> En tant qu'ancien étudiant d'[Epitech](https://epitech.eu), une prestigieuse école d'informatique française, j'ai acquis une base solide en informatique et en développement logiciel. Tout au long de mes études et de mon éxpérience professionnel, j'ai monté en compétence dans une variété de langages de programmation et de nouvelle technologies.
 
 <div align="center">
 
 |  |  |  |  |
 |--|--|--|--|
-| [Statistics](#stats) | [About Me](#about) | [Repositories](#repo) | [Contacts](#contacts) |
+| [Statistiques](#stats) | [À Mon Propos](#about) | [Projets](#repo) | [Contactes](#contacts) |
 
 </div>
 
@@ -34,7 +34,7 @@
 </div>
 
 <h2 id="stats">
-  📊 Statistics
+  📊 Statistiques
 </h2>
 
 <div align="center">
@@ -51,24 +51,24 @@
 </div>
 
 <h2 id="about">
-  🧔 About Me
+  🧔 À Mon Propos
 </h2>
 
-*   👨‍💼 Currently working
-*   🆕 New languages enthousiast !
-*   💬 I love to talk about anything and everything (especially about nothing)
-*   🤡 Squeak squeak, I'm a little prankster
-*   ⏰ Eminent member of Morning team, I fall asleep at 22 pm
-*   🤖 Love developing <ins>Discord</ins> bots, using [discord.js](https://github.com/discordjs/discord.js) most of the time
-*   ✌️ Vim ? Emacs ? I chose my sides a long time ago: [Doom](https://github.com/doomemacs/doomemacs) !
-*   😇 I do prefer using Yarn over npm
+*   👨‍💼 Actuellement en poste
+*   🆕 Passioné de nouveaux langages !
+*   💬 J'aime parler à propos de tout et de rien (et particulièrement de rien)
+*   🤡 Pouet pouet, Je suis un potit blageur
+*   ⏰ Membre éminent de la team du Matin, Je m'endors à 22h
+*   🤖 J'aime développer des bots <ins>Discord</ins>, avec [discord.js](https://github.com/discordjs/discord.js) la plus part du temps
+*   ✌️ Vim ? Emacs ? J'ai choisi mon camps il y à longtemps: [Doom](https://github.com/doomemacs/doomemacs) !
+*   😇 Je préfère l'utilisation de Yarn à celle de npm
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Paul-Marie/Paul-Marie/master/.github/Assets/Border.png" />
 </div>
 
 <h2 id="repo">
-  📂 Repositories
+  📂 Projets
 </h2>
 
 [![Epitech's Survival Kit](https://github-readme-stats.vercel.app/api/pin/?username=Paul-Marie&repo=Epitech-Survival-Kit&hide_border=true&title_color=FF0055&text_color=03C6E0&bg_color=141321)][epitech-survival-kit]
@@ -81,18 +81,18 @@
 </div>
 
 <h2 id="contacts">
-  💌 Contacts
+  💌 Contactes
 </h2>
 
 > **Warning**
-> You may prefer to contact me directly via [Discord][discord] for quicker answers.
+> Vous préférerez sûrement me contacter directement via [Discord][discord] pour des réponses plus rapides.
 
 
 | ⬇️ | Name |  |
 |--|--|--|
-| [<img src="https://camo.githubusercontent.com/79fcdc7c43f1a1d7c175827976ffee8177814a016fb1b9578ff70f1aef759578/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646973636f72642e737667" alt="Discord" width="32">][discord] | `Lethargi#4691` | For shit chatting |
+| [<img src="https://camo.githubusercontent.com/79fcdc7c43f1a1d7c175827976ffee8177814a016fb1b9578ff70f1aef759578/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646973636f72642e737667" alt="Discord" width="32">][discord] | `Lethargi#4691` | Pour toute demandes |
 | [<img src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" alt="Twitter" width="32">][twitter] | `lethargi_` |  |
-| [<img src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" alt="Instagram" width="32">][instagram] | `pm.bettinelli` | I usually post my bakings |
+| [<img src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" alt="Instagram" width="32">][instagram] | `pm.bettinelli` | Je poste de temps en temps des photos de patisseries |
 <!--| [<img src="" alt="" width="32">][] |  |  |-->
 
 <div align="center">
@@ -100,11 +100,11 @@
 </div>
 
 > **Note**
-> Don't hesitate to follow my Github account to stay updated !
+> N' hésitez pas de me suivre sur Github pour rester à jours !
 
 <details> 
   <summary>
-    🔑 my public GPG Key
+    🔑 ma clef GPG publique
   </summary>
 
   <br>
