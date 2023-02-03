@@ -23,9 +23,9 @@
 
 <div align="center">
 
-|  |  |  |  |
-|--|--|--|--|
 | [Statistics](#stats) | [About Me](#about) | [Repositories](#repo) | [Contacts](#contacts) |
+|:---:|:---:|:---:|:---:|
+
 
 </div>
 
